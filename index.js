@@ -8,5 +8,5 @@ const logDriverNames = function (drivers) {
 const logDriversByHometown = function (drivers, hometown) {
   return drivers.filter( function (driver) {
     return driver.hometown === hometown;
-  };
+  });
 };
