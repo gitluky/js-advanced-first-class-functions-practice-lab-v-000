@@ -4,3 +4,7 @@ const logDriverNames = function (drivers) {
     console.log(el.name);
   });
 };
+
+const logDriversByHometown = function (drivers, hometown) {
+  
+};
